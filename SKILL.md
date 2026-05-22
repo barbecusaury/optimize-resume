@@ -1,6 +1,6 @@
 ---
 name: optimize-resume
-description: Use when a user provides resume text or a resume file and asks Codex to optimize, rewrite, polish, tailor for a job, create a revised resume copy, or return resume revision advice while preserving the original.
+description: Use when a user provides resume text or a resume file and asks an AI agent to optimize, rewrite, polish, tailor for a job, create a revised resume copy, or return resume revision advice while preserving the original.
 ---
 
 # Optimize Resume
