@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimize Resume"
+  short_description: "Create safe revised resume copies"
+  default_prompt: "Use $optimize-resume to copy my resume, improve only the wording, and return the revised resume plus complete revision advice."
